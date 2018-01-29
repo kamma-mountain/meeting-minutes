@@ -1,0 +1,58 @@
+KAMMA MOUNTAIN LTD.
+==================
+
+MINUTES OF A MEETING OF THE BOARD OF DIRECTORS
+----------------------------------------------
+Saturday 09 December 2017
+
+The second meeting of the Board of Directors Kamma Mountain Ltd. was held on Saturday 09 December 2017 at 7:00 pm EDT at 414 Henry Street, Apartment 2, Brooklyn New York.
+
+
+DIRECTORS PRESENT
+
+Mark Ho-Kane, President
+Doris Ho-Kane, Treasurer
+Andrew Shuttleworth, Secretary*
+
+*Attended remotely via videoconference.
+
+
+CALL TO ORDER
+
+The President called the meeting to order. The Secretary recorded the minutes. A quorum of the directors was present, and the meeting, having been duly convened, was ready to proceed.
+
+
+PRIOR BUSINESS
+
+As approved by the Board at their previous meeting, the President and Treasurer reported that a bank account had been opened in the name of the organization. It was additionally reported that the articles of incorporation had been filed.
+
+The president reported that the tote design shown previously had been printed, and would be available for donations over $25.
+
+A website for the organization was live, with commerce functionality enabled by Snipcart. Payments are handled by an integration with Stripe. The Stripe account is connected to the bank account.
+
+
+NEW BUSINESS
+
+The organization has registered for sales tax as a precautionary measure.
+
+Sixteen copies of the book were sent to Buddhist Insights in Rockaway for their retreats.
+
+Goals for the organization include setting up an accounting system, improving the website, and filing for taxes.
+
+Work is currently being tracked in GitHub, using the new Projects Feature. At the moment, two projects present themselves: redesigning the email invoice template, and redesigning the cart itself.
+
+
+REPORT BY THE TREASURER
+
+Treasurer Doris Ho-Kane reported on current and future outreach efforts, expressing a need to reach out to people in a position to share with interested friends via word of mouth. This need is broader than just Buddhists. As a start to this effort, the Insight Meditation Society was contacted, although no response had yet been received.
+
+
+ADJOUNRMENT
+
+There being no further business to come before the Board, the meeting was adjourned at 7:30 pm EST.
+
+
+These meetings are respectfully submitted to the record.
+
+Andrew Shuttleworth
+Secretary
